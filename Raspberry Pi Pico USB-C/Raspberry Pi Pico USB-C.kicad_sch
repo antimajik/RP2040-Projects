@@ -1,5 +1,27 @@
 (kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 7f1d438c-a469-4eae-8346-8683099b0ab2)
+
   (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+
+  (lib_symbols
+  )
+
+
+  (text "19 October 2023" (at 207.01 194.31 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 204e1544-3444-4ad7-9d23-615c39c4b1e5)
+  )
+  (text "Raspberry Pi Pico USB-C" (at 186.69 190.5 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 3b82ca02-8327-4869-bac0-7757eeb95010)
+  )
+  (text "1.0" (at 269.24 194.31 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid b0ff1b61-b07f-44dc-85f8-ccc45e1240b4)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
 )
